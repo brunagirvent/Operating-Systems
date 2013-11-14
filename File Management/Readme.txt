@@ -1,0 +1,2 @@
+Ext2.c is a program to read, extract and process the information in a Linux File System type ext2. The code opens the file fs.img, and creates a thread for each superblock. Every thread reads the group descriptor, shows its content, and a list of all the files contained in each directory.
+Source code on github

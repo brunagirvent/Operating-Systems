@@ -1,0 +1,26 @@
+I-nodes: 2560
+Blocks: 10240	Reserved Blocks: 512
+Free Blocks: 9819	Free i-nodes: 2549
+First Data Block: 1
+Block Size: 1024	Fragment Size: 0
+Per Group: 8192 blocks	8192 fragments	1280 i-nodes
+Last Mounted: Thu Jan  1 01:00:00 1970
+Last Written: Wed Nov 23 12:33:41 2011
+Mounted 0 times	 39 mounts before check
+Magic: ef53	State: 1	Errors: 1
+Last checked: Wed Nov 23 12:33:41 2011
+Check every 180 days
+
+Group 0
+Block bitmap at 42
+I-node bitmap at 43
+I-node table at 44
+Free Blocks: 7975	Free i-nodes: 1269
+Directory i-nodes: 2
+
+Group 1
+Block bitmap at 2
+I-node bitmap at 33619980
+I-node table at 46
+Free Blocks: 2	Free i-nodes: 0
+Directory i-nodes: 12

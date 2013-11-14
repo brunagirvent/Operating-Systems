@@ -1,0 +1,7 @@
+Group: 0 Inode: 2, Index: 1 Name: .
+Group: 0 Inode: 2, Index: 1 Name: ..
+Group: 0 Inode: 11, Index: 1 Name: lost+found
+Group: 0 Inode: 11, Index: 1 Name: .
+Group: 0 Inode: 2, Index: 1 Name: ..
+Group: 0 Inode: 11, Index: 10 Name: .
+Group: 0 Inode: 2, Index: 10 Name: ..

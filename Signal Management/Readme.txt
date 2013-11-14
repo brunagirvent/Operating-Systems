@@ -1,0 +1,1 @@
+ball.c and balls.c manage the calls of the Unix system related with the synchronous and asynchronous processes: pipes and signals. 
